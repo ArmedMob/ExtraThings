@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rdsget",
+  "name": "Extra Things",
+  "description": "Extra Things for modded Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Armed Mob"],
+  "credits": "Red Dragons Guild",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

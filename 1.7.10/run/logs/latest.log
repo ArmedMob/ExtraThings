@@ -1,0 +1,17 @@
+[13:06:55] [main/INFO]: Setting user: Player263
+[13:06:57] [Client thread/INFO]: LWJGL Version: 2.9.1
+[13:07:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[13:07:03] [Sound Library Loader/INFO]: Sound engine started
+[13:07:04] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:07:04] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:07:04] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[13:07:04] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:07:04] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:07:05] [Sound Library Loader/INFO]: Sound engine started
+[13:07:27] [Client thread/INFO]: Stopping!
+necraft server version 1.7.10
+[13:07:22] [Server thread/INFO]: Loading properties
+[13:07:22] [Server thread/WARN]: server.properties does not exist
+[13:07:22] [Server thread/INFO]: Generating new properties file
+[13:07:22] [Server thread/WARN]: Failed to load eula.txt
+[13:07:22] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
